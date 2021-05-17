@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"country": "^0.2.0",
+		"utilities": "^1.0.5"
+	}
+}

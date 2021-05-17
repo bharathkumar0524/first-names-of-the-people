@@ -1,0 +1,18 @@
+dependencies:
+  country: 0.2.0
+  utilities: 1.0.5
+lockfileVersion: 5.2
+packages:
+  /country/0.2.0:
+    dev: false
+    engines:
+      node: ~v0.4.9
+    resolution:
+      integrity: sha1-zIoCwxwsn5etXrS/EKDawIguiF4=
+  /utilities/1.0.5:
+    dev: false
+    resolution:
+      integrity: sha1-8rd6iPNRBzP8chW1xIalBKdaskU=
+specifiers:
+  country: ^0.2.0
+  utilities: ^1.0.5
